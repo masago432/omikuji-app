@@ -3,6 +3,9 @@
 シンプルなおみくじを引けるWebアプリです。  
 GitHub Pagesで公開しています 👉 [ここをクリック](https://masago432.github.io/omikuji-app/)
 
+## スクリーンショット
+![おみくじアプリの画面](omikuji.png)
+
 ## 使い方
 1. ページを開く
 2. 「おみくじを引く」をクリック

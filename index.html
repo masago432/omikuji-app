@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>おみくじ</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    #result {
+      font-size: 24px;
+      margin-top: 30px;
+      color: #4A5568;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 18px;
+      background-color: #FBB6CE;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #F687B3;
+    }
+  </style>
+</head>
+<body>
+  <h1>今日の運勢は？</h1>
+  <button onclick="drawOmikuji()">おみくじを引く</button>
+  <div id="result"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

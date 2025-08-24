@@ -1,7 +1,7 @@
 # おみくじアプリ 🎴
 
 シンプルなおみくじを引けるWebアプリです。  
-GitHub Pagesで公開しています 👉 [こちら](https://masago432.github.io/omikuji-app/)
+GitHub Pagesで公開しています 👉 [ここをクリック](https://masago432.github.io/omikuji-app/)
 
 ## 使い方
 1. ページを開く
@@ -11,3 +11,6 @@ GitHub Pagesで公開しています 👉 [こちら](https://masago432.github.i
 ## ファイル構成
 - index.html
 - script.js
+
+## 作者
+masago（[@masago432](https://github.com/masago432)）
